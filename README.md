@@ -34,7 +34,7 @@ ROBO TUTOR is an AI-powered educational assistant designed to enhance learning e
 4. Provide feedback using the built-in feedback system.
 
    
-<iframe width="560" height="315" src="https://youtu.be/3wfP1pdg_gE?si=Vhu1xYAdS0Hgqll0" frameborder="0" allowfullscreen></iframe>
+[![Robo-Tutor Demo](https://img.youtube.com/vi/3wfP1pdg_gE?si=Vhu1xYAdS0Hgqll0/0.jpg)](https://youtu.be/3wfP1pdg_gE?si=Vhu1xYAdS0Hgqll0)
 
 
 ## Technologies Used
