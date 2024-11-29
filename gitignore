@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+feedback.txt
+conversation_history.txt
+*.png
+*.jpg
+*.jpeg
