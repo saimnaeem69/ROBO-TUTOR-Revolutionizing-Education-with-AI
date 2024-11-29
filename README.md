@@ -14,7 +14,7 @@ ROBO TUTOR is an AI-powered educational assistant designed to enhance learning e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ROBO-TUTOR.git
+   git clone https://github.com/saimnaeem69/ROBO-TUTOR.git
    cd ROBO-TUTOR
    ```
 2. Install the required dependencies:
@@ -23,7 +23,7 @@ ROBO TUTOR is an AI-powered educational assistant designed to enhance learning e
    ```
 3. Run the application:
    ```bash
-   streamlit run saim.py
+   streamlit run Robo.py
    ```
 
 ## Usage
@@ -44,9 +44,4 @@ ROBO TUTOR is an AI-powered educational assistant designed to enhance learning e
 
 ## Credits
 
-- Developed by [Your Name].
-- Supervised by [Advisor Name].
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Developed by Saim Naeem.
